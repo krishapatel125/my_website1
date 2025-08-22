@@ -1,4 +1,4 @@
-Hi, I'm Bhavik 👋
+Hi, I'm krisha patel 👋
 
 Welcome to my personal repository!
 This repository contains information about me, my work, and how you can connect with me.
@@ -13,6 +13,6 @@ Enthusiastic about learning new technologies and building creative projects
   📞 Contact Information
   📬 Contact Me
 
-Email: [bhavikr6960@gmail.com]
+Email: [krishapatel6353@gmail.com]
 
-GitHub: github.com/bhavik69600
+
